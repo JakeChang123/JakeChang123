@@ -1,0 +1,58 @@
+<style>
+</style>
+<body>
+<div style ="position:absolute; height:30px; top:16px; left:700px; background-color:#c1ffc1;">MY RESUME</div>
+  <table width="600" border="1" top="30" align="center">
+    <tr>
+      <td>&nbsp;</td>
+      <td>NAME:</td>
+      <td>Jake Chang</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>AGE:</td>
+      <td>19</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>LACATION:</td>
+      <td>Guangzhou</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>SCHOOL:</td>
+      <td>GUANGDONG UNIVERSITY OF TECHNOLOGY</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>mAJOR</td>
+      <td>INDUSTRIAL ENJINEERING</td>
+      </tr>
+      <tr>
+     <td>&nbsp;</td>
+      <td>TIME OF LEARNING WEB:</td>
+      <td>ONE MONTH</td>
+    </tr>
+   <td>&nbsp;</td>
+      <td>TELEPHONE NUMBERS:</td>
+      <td>18023456789</td>
+    </tr>
+ <td>&nbsp;</td>
+      <td>GITHUB:</td>
+      <td>https://github.com/JakeChang123/JakeChang123.github.io</td>
+    </tr>
+  </table>
+</body>
+
+
+
+
+
+
+<css>$blue: #bbffff;
+body {
+  background-color: $blue;
+}
+table {
+margin-top:70px; background-color: #FFB6C1; text-align: center
+}
